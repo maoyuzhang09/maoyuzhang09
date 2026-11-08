@@ -3,7 +3,7 @@
 Postdoctoral Research Associate, Department of Statistics and Data Science, Washington University in St. Louis.
 I am on the **2026–2027 academic job market**.
 
-My research focuses on the statistical analysis of networks, graphs, and tensor data, as well as debiased inference, with applications in business, neuroscience, and social science.
+My research focuses on the statistical analysis of networks, graphs, and tensor data; the analysis of synthetic data; and subgroup analysis, with applications in business, neuroscience, social science, and public health.
 
 **Homepage:** [maoyuzhang09.github.io](https://maoyuzhang09.github.io/) · **Email:** [maoyu@wustl.edu](mailto:maoyu@wustl.edu)
 
